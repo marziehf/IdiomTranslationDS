@@ -19,3 +19,12 @@ archivePrefix = "arXiv",
    adsurl = {http://adsabs.harvard.edu/abs/2018arXiv180204681F},
   adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
+```
+
+## Acknowledgement 
+
+This data set is originally from WMT shared task:
+```
+Findings of the 2017 Conference on Machine Translation
+Ondřej Bojar, Rajen Chatterjee, Christian Federmann, Yvette Graham, Barry Haddow, Shujian Huang, Matthias Huck, Philipp Koehn, Qun Liu, Varvara Logacheva, Christof Monz, Matteo Negri, Matt Post, Raphael Rubino, Lucia Specia and Marco Turchi 
+```
