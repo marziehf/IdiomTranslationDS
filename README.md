@@ -23,7 +23,7 @@ archivePrefix = "arXiv",
 
 ## Acknowledgement 
 
-This data set is originally from WMT shared task:
+This data set is originally from the WMT shared task 2017:
 
-- Findings of the 2017 Conference on Machine Translation, Ondřej Bojar, Rajen Chatterjee, Christian Federmann, Yvette Graham, Barry Haddow, Shujian Huang, Matthias Huck, Philipp Koehn, Qun Liu, Varvara Logacheva, Christof Monz, Matteo Negri, Matt Post, Raphael Rubino, Lucia Specia and Marco Turchi 
+- [Findings of the 2017 Conference on Machine Translation](http://www.statmt.org/wmt17/pdf/WMT17.pdf), Ondřej Bojar, Rajen Chatterjee, Christian Federmann, Yvette Graham, Barry Haddow, Shujian Huang, Matthias Huck, Philipp Koehn, Qun Liu, Varvara Logacheva, Christof Monz, Matteo Negri, Matt Post, Raphael Rubino, Lucia Specia and Marco Turchi 
 
