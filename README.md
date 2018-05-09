@@ -4,7 +4,7 @@ This repository includes the data sets for idiom translation from German to Engl
 
 ## Citation
 
-If you use this code, please cite:
+If you use this data set, please cite:
 ```
 @ARTICLE{2018arXiv180204681F,
    author = {{Fadaee}, M. and {Bisazza}, A. and {Monz}, C.},
